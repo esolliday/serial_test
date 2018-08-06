@@ -54,5 +54,4 @@ read_result(ser)
 
 ser.close()
 
-print("Done")
-
+print("The branch is now done")
